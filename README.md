@@ -10,7 +10,7 @@ I build things that solve real problems — from HOA management platforms to CRM
 
 - **Atrium** — HOA management platform (Laravel + Next.js)
 - **Honors Turf & Pest** — CRM development for lawn care business
-- **Elevated** — Full stack web development, design, and marketing
+- **Elevated** — Full-stack web development, design, and marketing
 - **Winch Life** — Content creation & strategy
 - **Rivas Images** — Photography business
 
