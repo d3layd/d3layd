@@ -20,17 +20,9 @@ I build things that solve real problems — from HOA management platforms to CRM
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=d3layd&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=d3layd&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=d3layd&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=d3layd&theme=github-dark-blue&hide_border=true&background=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=d3layd&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=d3layd&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=d3layd&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=d3layd&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=d3layd&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </picture>
 </p>
 
