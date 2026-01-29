@@ -26,6 +26,14 @@ I build things that solve real problems — from HOA management platforms to CRM
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=d3layd&theme=github-dark-blue&hide_border=true&background=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=d3layd&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=d3layd&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  </picture>
+</p>
+
 ---
 
 ## 🧰 Tech Stack
