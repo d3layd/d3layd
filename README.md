@@ -14,7 +14,7 @@ I build things that solve real problems — from HOA management platforms to CRM
 - **Winch Life** — Content creation & strategy
 - **Rivas Images** — Photography business
 
-<!-- ---
+---
 
 ## 📊 GitHub Stats
 
@@ -34,7 +34,7 @@ I build things that solve real problems — from HOA management platforms to CRM
   </picture>
 </p>
 
---- -->
+---
 
 ## 🧰 Tech Stack
 
