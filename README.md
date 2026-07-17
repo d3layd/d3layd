@@ -2,13 +2,12 @@
 
 **Multi-business entrepreneur | Full-Stack Developer | Photographer | Content Creator**
 
-I build things that solve real problems — from HOA management platforms to CRM systems, while also capturing moments through photography and creating content.
-
+I build things that solve real problems, from a live HOA compliance platform to CRM systems and custom AI tooling. Most of what I build ships in private commercial repos, so the contribution graph above tells the story the repo list can't. On the side, I run a photography business and create content.
 ---
 
 ## 🛠️ What I'm Working On
 
-- **Atrium** — HOA management platform (Laravel + Next.js)
+- **Atrium** — Live compliance platform for Florida HOAs, serving 1,500+ members.
 - **Honors Turf & Pest** — CRM development for lawn care business
 - **Elevated** — Full-stack web development, design, and marketing
 - **Winch Life** — Content creation & strategy
