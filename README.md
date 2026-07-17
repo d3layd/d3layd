@@ -1,6 +1,6 @@
 # Hey, I'm Dennis 👋
 
-**Full-Stack Developer | Digital Marketer | Content Creator**
+**Full-Stack Developer | Founder | AI & Automation Builder**
 
 I build things that solve real problems, from a live HOA compliance platform to CRM systems and custom AI tooling. Most of what I build ships in private commercial repos, so the contribution graph above tells the story the repo list can't. On the side, I run a photography business and create content.
 
