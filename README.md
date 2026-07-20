@@ -32,9 +32,3 @@ I build things that solve real problems, from a live HOA compliance platform to 
 **OS**
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=d3layd&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
