@@ -16,21 +16,18 @@ I build software that solves real problems and put it in front of real users. Mo
 - **██████████**: a hiring marketplace for hospitality professionals. Coming soon.
 
 ### Sites I've built
-
-Built in my spare time.
-
+ 
 - **[LVTD Agency](https://lvtdagency.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2026): my agency's site, migrated from WordPress to a custom JavaScript build.
 - **[Rivas Images](https://rivasimages.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2026): migrated from WordPress to a custom JavaScript build.
 - **[dennislayden.com](https://dennislayden.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2026): my personal site, migrated from WordPress to a custom JavaScript build.
 - **[Britt Matthews](https://brittmatthews.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2025): site designed and built for a client.
 - **[Honors Turf & Pest](https://honorsturfandpest.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024 to 2025): website built for a turf and pest control company.
-- **[girlsgaystheysla.com](https://girlsgaystheysla.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024): built for a friend's event company. no longer maintained.
-- **[puffdao.com](https://puffdao.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024): built for a friend's event company. no longer maintained.
-- **[BridgeCrosser](https://bridgecrosser.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2023): revived a WordPress blog that had gone years without maintenance. Rebuilt the codebase, added new designs and features, and recovered the domain.
-- **[SF Poster Syndicate](https://sfpostersyndicate.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2020 to 2021): designed and built from the ground up. My first technical build. no longer maintained.
+- **[girlsgaystheysla.com](https://girlsgaystheysla.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024): built for an event company client.
+- **[puffdao.com](https://puffdao.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024): built for an event company client.
+- **[Bridge Crosser](https://bridgecrosser.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2023): revived a WordPress blog that had gone years without maintenance. Rebuilt the codebase, added new designs and features, and recovered the domain.
+- **[SF Poster Syndicate](https://sfpostersyndicate.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2020 to 2021): designed and built from the ground up. My first technical build.
 - **[rrcre.com](https://rrcre.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: no longer maintained.
 - **[gulfglo.com](https://gulfglo.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: no longer maintained.
-
 ---
 
 ## 🧰 Tech Stack
