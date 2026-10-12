@@ -19,10 +19,10 @@ Built in my spare time.
 - **[dennislayden.com](https://dennislayden.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2026): my personal site, migrated from WordPress to a custom JavaScript build.
 - **[Britt Matthews](https://brittmatthews.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2025): site designed and built for a client.
 - **[Honors Turf & Pest](https://honorsturfandpest.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024 to 2025): website built for a turf and pest control company.
-- **[girlsgaystheysla.com](https://girlsgaystheysla.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024): built for a friend's event company.
-- **[puffdao.com](https://puffdao.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024): built for a friend's event company.
-- **[Bridge Crosser](https://bridgecrosser.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2023): revived a WordPress blog that had gone years without maintenance. Rebuilt the codebase, added new designs and features, and recovered the domain.
-- **[SF Poster Syndicate](https://sfpostersyndicate.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2020 to 2021): designed and built from the ground up. My first technical build.
+- **[girlsgaystheysla.com](https://girlsgaystheysla.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024): built for a friend's event company. no longer maintained.
+- **[puffdao.com](https://puffdao.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024): built for a friend's event company. no longer maintained.
+- **[BridgeCrosser](https://bridgecrosser.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2023): revived a WordPress blog that had gone years without maintenance. Rebuilt the codebase, added new designs and features, and recovered the domain.
+- **[SF Poster Syndicate](https://sfpostersyndicate.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2020 to 2021): designed and built from the ground up. My first technical build. no longer maintained.
 - **[rrcre.com](https://rrcre.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: no longer maintained.
 - **[gulfglo.com](https://gulfglo.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: no longer maintained.
 
