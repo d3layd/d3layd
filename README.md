@@ -10,6 +10,11 @@ I build software that solves real problems and put it in front of real users. Mo
 - **[Storm Check](https://stormcheck.app?utm_source=github&utm_medium=profile&utm_campaign=readme)**: free app I launched during Hurricane Isaias. It connects people who can't reach their property after a storm with neighbors who can check on it.
 - **[agent-history](https://github.com/d3layd/agent-history)**: open source local semantic search over AI coding agent session transcripts, built on Ollama embeddings and sqlite-vec.
 
+### In the works
+ 
+- **██████████**: a platform for the wedding industry. Coming soon.
+- **██████████**: a hiring marketplace for hospitality professionals. Coming soon.
+
 ### Sites I've built
 
 Built in my spare time.
