@@ -1,3 +1,5 @@
+# Hey, I'm Dennis 👋
+
 **Founder | Full-Stack Developer | AI & Automation Builder**
 
 I build software that solves real problems and put it in front of real users. Most of it lives in private commercial repos, so the contribution graph above tells the story the repo list can't.
@@ -6,19 +8,19 @@ I build software that solves real problems and put it in front of real users. Mo
 
 ## 🚀 Currently Building
 
-- **[Atrium](https://atriumcms.com)**: compliance platform for Florida HOA and condo associations. Laravel and Next.js, multi-tenant, in production with multiple associations.
-- **[Storm Check](https://stormcheck.app)**: free app I launched during Hurricane Isaias. It connects people who can't reach their property after a storm with neighbors who can check on it.
+- **[Atrium](https://atriumcms.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: compliance platform for Florida HOA and condo associations. Laravel and Next.js, multi-tenant, in production with multiple associations.
+- **[Storm Check](https://stormcheck.app?utm_source=github&utm_medium=profile&utm_campaign=readme)**: free app I launched during Hurricane Isaias. It connects people who can't reach their property after a storm with neighbors who can check on it.
 - **[agent-history](https://github.com/d3layd/agent-history)**: open source local semantic search over AI coding agent session transcripts, built on Ollama embeddings and sqlite-vec.
 
 ### Sites I've built
 
-- **[SF Poster Syndicate](https://sfpostersyndicate.com)**: designed and built from the ground up. My first technical build.
-- **[Honors Turf & Pest](https://honorsturfandpest.com)**: website built for a turf and pest control company.
-- **[Britt Matthews](https://brittmatthews.com)**: site designed and built for a client.
-- **[Rivas Images](https://rivasimages.com)**: migrated from WordPress to a custom JavaScript build.
-- **[LVTD Agency](https://lvtdagency.com)**: my agency's site, migrated from WordPress to a custom JavaScript build.
-- **[Bridge Crosser](https://bridgecrosser.com)**: revived a WordPress blog that had gone years without maintenance. Rebuilt the codebase, added new designs and features, and recovered the domain.
-- **[dennislayden.com](https://dennislayden.com)**: my personal site.
+- **[SF Poster Syndicate](https://sfpostersyndicate.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: designed and built from the ground up. My first technical build.
+- **[Honors Turf & Pest](https://honorsturfandpest.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: website built for a turf and pest control company.
+- **[Britt Matthews](https://brittmatthews.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: site designed and built for a client.
+- **[Rivas Images](https://rivasimages.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: migrated from WordPress to a custom JavaScript build.
+- **[LVTD Agency](https://lvtdagency.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: my agency's site, migrated from WordPress to a custom JavaScript build.
+- **[Bridge Crosser](https://bridgecrosser.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: revived a WordPress blog that had gone years without maintenance. Rebuilt the codebase, added new designs and features, and recovered the domain.
+- **[dennislayden.com](https://dennislayden.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: my personal site.
 
 ---
 
