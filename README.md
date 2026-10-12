@@ -1,5 +1,3 @@
-# Hey, I'm Dennis 👋
-
 **Founder | Full-Stack Developer | AI & Automation Builder**
 
 I build software that solves real problems and put it in front of real users. Most of it lives in private commercial repos, so the contribution graph above tells the story the repo list can't.
