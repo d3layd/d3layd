@@ -6,9 +6,19 @@ I build software that solves real problems and put it in front of real users. Mo
 
 ## 🚀 Currently Building
 
-- **[Atrium](ATRIUM_URL)**: compliance platform for Florida HOA and condo associations. Laravel and Next.js, multi-tenant, in production with multiple associations.
+- **[Atrium](https://atriumcms.com)**: compliance platform for Florida HOA and condo associations. Laravel and Next.js, multi-tenant, in production with multiple associations.
 - **[Storm Check](https://stormcheck.app)**: free app I launched during Hurricane Isaias. It connects people who can't reach their property after a storm with neighbors who can check on it.
 - **[agent-history](https://github.com/d3layd/agent-history)**: open source local semantic search over AI coding agent session transcripts, built on Ollama embeddings and sqlite-vec.
+
+### Sites I've built
+
+- **[SF Poster Syndicate](https://sfpostersyndicate.com)**: designed and built from the ground up. My first technical build.
+- **[Honors Turf & Pest](https://honorsturfandpest.com)**: website built for a turf and pest control company.
+- **[Britt Matthews](https://brittmatthews.com)**: site designed and built for a client.
+- **[Rivas Images](https://rivasimages.com)**: migrated from WordPress to a custom JavaScript build.
+- **[LVTD Agency](https://lvtdagency.com)**: my agency's site, migrated from WordPress to a custom JavaScript build.
+- **[Bridge Crosser](https://bridgecrosser.com)**: revived a WordPress blog that had gone years without maintenance. Rebuilt the codebase, added new designs and features, and recovered the domain.
+- **[dennislayden.com](https://dennislayden.com)**: my personal site.
 
 ---
 
@@ -25,6 +35,8 @@ I build software that solves real problems and put it in front of real users. Mo
 **Infrastructure & DevOps**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+
+Cloudflare and AWS in production for R2 storage, email, page routing and site security.
 
 **Databases**
 
