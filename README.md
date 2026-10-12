@@ -12,13 +12,19 @@ I build software that solves real problems and put it in front of real users. Mo
 
 ### Sites I've built
 
-- **[SF Poster Syndicate](https://sfpostersyndicate.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: designed and built from the ground up. My first technical build.
-- **[Honors Turf & Pest](https://honorsturfandpest.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: website built for a turf and pest control company.
-- **[Britt Matthews](https://brittmatthews.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: site designed and built for a client.
-- **[Rivas Images](https://rivasimages.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: migrated from WordPress to a custom JavaScript build.
-- **[LVTD Agency](https://lvtdagency.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: my agency's site, migrated from WordPress to a custom JavaScript build.
-- **[Bridge Crosser](https://bridgecrosser.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: revived a WordPress blog that had gone years without maintenance. Rebuilt the codebase, added new designs and features, and recovered the domain.
-- **[dennislayden.com](https://dennislayden.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: my personal site.
+Built in my spare time.
+
+- **[LVTD Agency](https://lvtdagency.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2026): my agency's site, migrated from WordPress to a custom JavaScript build.
+- **[Rivas Images](https://rivasimages.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2026): migrated from WordPress to a custom JavaScript build.
+- **[dennislayden.com](https://dennislayden.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2026): my personal site, migrated from WordPress to a custom JavaScript build.
+- **[Britt Matthews](https://brittmatthews.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2025): site designed and built for a client.
+- **[Honors Turf & Pest](https://honorsturfandpest.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024 to 2025): website built for a turf and pest control company.
+- **[girlsgaystheysla.com](https://girlsgaystheysla.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024): built for a friend's event company.
+- **[puffdao.com](https://puffdao.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2024): built for a friend's event company.
+- **[Bridge Crosser](https://bridgecrosser.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2023): revived a WordPress blog that had gone years without maintenance. Rebuilt the codebase, added new designs and features, and recovered the domain.
+- **[SF Poster Syndicate](https://sfpostersyndicate.com?utm_source=github&utm_medium=profile&utm_campaign=readme)** (2020 to 2021): designed and built from the ground up. My first technical build.
+- **[rrcre.com](https://rrcre.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: no longer maintained.
+- **[gulfglo.com](https://gulfglo.com?utm_source=github&utm_medium=profile&utm_campaign=readme)**: no longer maintained.
 
 ---
 
